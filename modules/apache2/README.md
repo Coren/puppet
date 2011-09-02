@@ -7,9 +7,11 @@ Usage
 -----
 
 For default Apache 2 install, with php & geoip module :
+
     include apache2
 
 If you want an Apache 2 without modules, you can use :
+
     class { "apache2":  modules => "" }
 
 
