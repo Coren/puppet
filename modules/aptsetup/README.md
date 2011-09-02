@@ -24,6 +24,6 @@ _seed_ prefix to classic package function :
 Comments
 -----
 
-This module include a complete example about pre-seeds package on sun-java6-jre.
+This module include a [complete example](https://github.com/Coren/puppet/blob/master/modules/aptsetup/manifests/sun-java.pp) about pre-seeds package on sun-java6-jre.
 
 
