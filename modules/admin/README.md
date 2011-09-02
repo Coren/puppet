@@ -6,7 +6,6 @@ This module push common files, like a colored & full of alias bashrc and add som
 Usage
 -----
 
-Just include the module. 
-
+In your favourite class or node :
     include admin
 
